@@ -1,1 +1,1 @@
-# normandyjug-petclinc
+# normandyjug-petclincdocker build -t normandyjug/petclinc .
